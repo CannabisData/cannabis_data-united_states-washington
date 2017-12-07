@@ -20,4 +20,4 @@ The last command starts up a local [Jupyter Notebook](https://jupyter.org/index.
 
 ### Highlights
 
-* The Washington State Liquor and Cannabis Board (WSLCB) operates a Socrata-based open data portal.  You can [find details about that platform in the README.md file](organizations/open_data_portal/README.md) in the organization's directory and [learn how to access data from the Licensed Businesses dataset](organizations/open_data_portal/wslcb-portal-licensed_businesses.ipynb).
+* The Washington State Liquor and Cannabis Board (WSLCB) operates a Socrata-based open data portal.  You can [find details about that platform in the README.md file](organizations/washington_state_liquor_and_cannabis_board/open_data_portal/README.md) in the organization's directory and [learn how to access data from the Licensed Businesses dataset](organizations/washington_state_liquor_and_cannabis_board/open_data_portal/wslcb-portal-licensed_businesses.ipynb).
