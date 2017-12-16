@@ -25,3 +25,4 @@ The last command starts up a local [Jupyter Notebook](https://jupyter.org/index.
   * [Compliance Checks](organizations/washington_state_liquor_and_cannabis_board/open_data_portal/wslcb-portal-compliance_checks.ipynb)
   * [Violations](organizations/washington_state_liquor_and_cannabis_board/open_data_portal/wslcb-portal-violations.ipynb)
   * [Enforcement Visits](organizations/washington_state_liquor_and_cannabis_board/open_data_portal/wslcb-portal-enforcement_visits.ipynb)
+  * [Flower Lot Wholesales](organizations/washington_state_liquor_and_cannabis_board/open_data_portal/wslcb-portal-flower_lot_wholesales.ipynb)
