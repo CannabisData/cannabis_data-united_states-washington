@@ -12,6 +12,7 @@ pandas = "*"
 sodapy = "*"
 cannapy = {git = "https://github.com/CannabisData/cannapy.git"}
 plotly = "*"
+matplotlib = "*"
 
 
 [dev-packages]
